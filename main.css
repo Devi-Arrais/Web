@@ -1,0 +1,40 @@
+.container{
+    width: 500px;
+    display: flex;
+    flex-direction: column;
+}
+input[type=checkbox]{
+    width: 20px;
+    
+}
+body{
+    padding-top: 150px;
+    padding-left: 550px;
+    background-color: #F3F5F9 ;
+}
+h1{
+    font-family: Inter;
+    color: #7E56D8;
+}
+h3{
+    font-family: Inter;
+    color: #121B2A;
+}
+label{
+    font-size: 20px;
+    font-family: Inter;
+    color: #BCBCCE;
+}
+input{
+    height: 35px;
+    width: 200px;
+    font-family: Inter;
+    border: #BCBCCE;
+}
+input[type=button]{
+    font-size: 15px;
+    height: 35px;
+    font-family: Inter;
+    color: #F3F5F9;
+   background-color: #7E56D8;
+}

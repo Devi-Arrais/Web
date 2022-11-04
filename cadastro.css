@@ -1,0 +1,41 @@
+.container{
+    width: 500px;
+    display: flex;
+    flex-direction: column;
+}
+h1{
+    font-family: Inter;
+    color: #7E56D8;
+}
+h3{
+    font-family: Inter;
+    color: #121B2A;
+}
+label{
+    font-size: 20px;
+    font-family: Inter;
+    color: #BCBCCE;
+}
+
+body{
+    padding-top: 60px;
+    padding-left: 550px;
+    background-color: #FFFFFF ;
+}
+input{
+    height: 35px;
+    width: 200px;
+    font-family: Inter;
+    border: 0,5px;
+    border-style:solid;
+    border-color: #BCBCCE;
+    
+}
+input[type=submit]{
+    margin-top: 8px;
+    font-size: 15px;
+    height: 35px;
+    font-family: Inter;
+    color: #F3F5F9;
+   background-color: #7E56D8;
+}
